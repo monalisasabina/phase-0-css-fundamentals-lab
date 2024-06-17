@@ -3,3 +3,53 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+
+nav {
+  word-spacing: 10px;
+  text-align: center;
+}
+nav >a {
+  background-color:cadetblue;
+  text-size-adjust: 30px;
+}
+
+#featured-property {
+text-align: center;
+padding-left: 200px;
+padding-right: 200px;
+}
+#featured-property > p {
+text-wrap: wrap;
+margin-left: 20%;
+margin-right: 20%;
+}
+
+img {
+  width: 800px;
+}
+
+#details {
+  background-color: coral;
+  display: inline-flex;
+  color: black;
+}
+#contact {
+  padding-left: 150px;
+  
+}
+#Correspondence {
+  padding-left: 200px;
+  padding-right: 25px;
+}
+#links{
+padding-left: 150px;
+}
+#Follow {
+  padding-left: 200px;
+  padding-bottom: 10px;
+  padding-inline-end: 250px;
+}
+
